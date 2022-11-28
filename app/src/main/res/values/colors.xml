@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="maroon_light">#FF8b3d56</color>
+    <color name="maroon_normal">#FF5b0e2d</color>
+    <color name="maroon_dark">#FF310001</color>
+    <color name="peach_light">#FFffd9b1</color>
+    <color name="peach_normal">#FFffa781</color>
+    <color name="peach_dark">#FFc97754</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
